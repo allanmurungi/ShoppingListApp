@@ -1,0 +1,11 @@
+com/shoppinglistapp/Globally.java
+ com.shoppinglistapp.Globally
+com/shoppinglistapp/SplashScreen.java
+ com.shoppinglistapp.SplashScreen
+ com.shoppinglistapp.SplashScreen$1
+com/shoppinglistapp/BuildConfig.java
+ com.shoppinglistapp.BuildConfig
+com/shoppinglistapp/MainActivity.java
+ com.shoppinglistapp.MainActivity
+ com.shoppinglistapp.MainActivity$1
+ com.shoppinglistapp.MainActivity$MyBrowser
